@@ -1,0 +1,66 @@
+/***** generales *****/
+*{
+    margin: 0; 
+    padding: 1px;
+    box-sizing: border-box;
+} 
+
+/* ***********estilos del header*********/
+.header__cabecera{
+    
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+
+background: #E6E6E6;
+}
+
+.header__imagen{
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;
+
+}
+/****** estilos del main ******/
+h1{
+    background: #C4C4C4;
+    color: #005677;
+    height: 60px;
+    letter-spacing: 10px;
+    left: 0px;
+    line-height: 60px;
+    text-align: center;
+    
+    top: 188px;
+    width: 1440px;
+
+}
+
+h2{
+    background: #C4C4C4;
+    color: #005677;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 376px;
+
+
+}
+/****** estilos del footer ******/
+.footer{
+    background: #005677;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+    width: 1440px;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+    padding: 5px 5px 5px 5px;
+    word-spacing: 15px;
+
+}
